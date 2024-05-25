@@ -17,6 +17,6 @@ See the `keys` directory for other keys I have.
 - kbilyeu@uccs.edu (School)
 
 ### Deprecated Email Addresses
-These emails are no longer in use due to being gmail emails, but are still associated with my GPG keys. 
+These emails are no longer in use due to being gmail emails, but are still associated with my GPG keys. Do not contact me using these emails as you will not receive a response.
 - tetralon07@gmail.com (Old)
 - kadenbilyeu0@gmail.com (Old)
